@@ -10,7 +10,7 @@
 - Le morpion est un jeu de réflexion se pratiquant à deux joueurs dont le but d'être le premier à créer un alignement de 3 cases sur une grille.
 
 ## Objectifs
-- Créer une application en vb permettant de jouer au morpion.
+- Créer une application en VB permettant de jouer au morpion.
 
 ## Techno
 - VB.Net
