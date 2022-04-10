@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./Assets/header.png" alt="Morpion" />
+  <img src="./Assets/morpion.png" alt="Morpion" />
 </h1>
 
 ---
